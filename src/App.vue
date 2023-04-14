@@ -87,19 +87,18 @@
       
       <style scoped>
       .formulario{
-        color: aliceblue;
+        color: rgb(115, 184, 245);
           background-color: #0E4459;
           width: 400px;
           border-radius: 20px;
-          margin-left: 20%;
+          margin-left: 23%;
         }
         .formulario2{
-        color: aliceblue;
+        color: rgb(144, 196, 242);
           background-color: #0E4459;
           width: 400px;
-          height: 800px;
           border-radius: 20px;
-          margin-left: 20%;
+          margin-left: 23%;
         }
         .menu{
           margin: 60px 60px 60px 100px;
@@ -115,16 +114,8 @@
           width: 205px;
           margin: 20px 10px 10px 0px
         }
-        textarea{
-          background-color: rgb(14, 219, 238);
-          width: 200px;
-        }
-        input, select{
-          background-color: rgb(72, 220, 246);
-          
-          height: 20px;
-          width: 200px;
-        }
+       
+       
         .usuario{
           color: rgb(12, 217, 245);
           background-color: #0E4459;
@@ -140,4 +131,6 @@
       
       
         </style>
+      
+
       
