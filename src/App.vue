@@ -104,6 +104,7 @@
           margin: 60px 60px 60px 100px;
         
         }
+        
         .button{
           font-size: 15px;
           color: rgb(152, 201, 244);
@@ -115,6 +116,11 @@
           margin: 20px 10px 10px 0px
         }
        
+       .div1{
+          display: grid;
+          grid-template-columns: 50% 50%;
+        }
+      
        
         .usuario{
           color: rgb(12, 217, 245);
@@ -122,11 +128,7 @@
           margin: 10px 60px 60px 100px;
           padding: 20px;
         }
-        .div1{
-          display: grid;
-          grid-template-columns: 50% 50%;
-        }
-      
+       
       
       
       
