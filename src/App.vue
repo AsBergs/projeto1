@@ -111,8 +111,6 @@
           background-color: #07748d;
           border: solid 1px #3d43e9;
           border-radius: 20px;
-          height: 40px;
-          width: 205px;
           margin: 20px 10px 10px 0px
         }
        
@@ -126,7 +124,7 @@
           color: rgb(12, 217, 245);
           background-color: #0E4459;
           margin: 10px 60px 60px 100px;
-          padding: 20px;
+     
         }
        
       
