@@ -89,19 +89,17 @@
       .formulario{
         color: rgb(115, 184, 245);
           background-color: #0E4459;
-          width: 400px;
           border-radius: 20px;
           margin-left: 23%;
         }
         .formulario2{
         color: rgb(144, 196, 242);
           background-color: #0E4459;
-          width: 400px;
           border-radius: 20px;
           margin-left: 23%;
         }
         .menu{
-          margin: 60px 60px 60px 100px;
+          margin: 50px 50px 50px 90px;
         
         }
         
